@@ -3,7 +3,7 @@ Updated version of the Known Ionomic Gene list using [OrthoFinder v2](https://ge
 
 # Known Ionomics Gene List pipeline (v2.0) 
 
-This Rscript takes an input list of previously known ionomic genes primary genes and finds orthologs from other species and appends them to the list as inferred genes. Each species will have its own csv output file that contains all of its primary genes and genes that have been inferred as orthologs to other species' primary genes, along with each gene's corresponding orthologs in every other species. Current primary species, include Arabidopsis thaliana, Oryza sativa, Zea mays, Triticum aestivum, and Medicago truncatula. Current inferred species include all the organisms listed in the primary list, as well as Sorghum bicolor, Glycine max, Setaria viridis, Setaria italica, Populus trichocarpa, Vitis vinifera.
+This Rscript takes an input list of previously known ionomic genes primary genes and finds orthologs from other species and appends them to the list as inferred genes. Each species will have its own csv output file that contains all of its primary genes and genes that have been inferred as orthologs to other species' primary genes, along with each gene's corresponding orthologs in every other species. Current primary species, include Arabidopsis thaliana, Oryza sativa, Zea mays, Triticum aestivum, and Medicago truncatula. Note: T. aestivum was removed from analysis due to its genome annotation quality which impacts ortholog calling. Current inferred species include all the organisms listed in the primary list (except for T. aestivum), as well as Sorghum bicolor, Glycine max, Setaria viridis, Setaria italica, Populus trichocarpa, Vitis vinifera.
 
 R version 4.1.0 (2021-05-18)
 
