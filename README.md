@@ -17,7 +17,7 @@ R version 4.1.0 (2021-05-18)
 #### Input list
 The pipeline takes in the known ionome list of submissions from collaborators as csv input to start the pipeline. The file should have one gene per line, with no duplicates, and include information about the gene ID, the species, elements the gene was associated with, the tissue type of the analysis, and a citation of the study characterizing this gene/element interaction. Gene name, closest ortholog species, and additional comments are optional but, if included, will be copied along with the gene to its respective species table in the output.
 
-### Ortholog table
+#### Ortholog table
 Ortholog table was generated using OrthoFinder v2.0 (Emms and Kelly 2019) with protein fasta files obtained from [Phytozome v13](https://phytozome-next.jgi.doe.gov/phytomine/begin.do) (Goodstein et al. 2012) for all the species in the list (except T. aestivum), plus Liriodendron tulipifera as an appropriate outgroup. Best practices for using OrthoFinder to build your orthogroups have been stated by the authors [here](https://davidemms.github.io/orthofinder_tutorials/orthofinder-best-practices.html).
 
 #### Function
