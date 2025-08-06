@@ -1,6 +1,7 @@
 Species,GeneID,GeneName,Elements,Citation(s) - DOI only,Closest species orthologs,Tissue,Comments
 Athaliana_TAIR10,AT1G01340,CNGC10,"K,Ca,Mg",10.1111/j.1399-3054.2010.01366.x,,"Roots,Shoots",NA
 Athaliana_TAIR10,AT1G01580,FRO2,Fe,10.1038/17800,NA,Root,NA
+Athaliana_TAIR10,AT1G05300,ZIP5,"Zn",10.1111/tpj.17251,NA,"Shoots,roots",NA
 Athaliana_TAIR10,AT1G07600,MT1A,"Cd,Zn,As",10.1007/s11103-005-8268-3,,Shoots,NA
 Athaliana_TAIR10,AT1G08490,CPNIFS,"Se,S",10.1104/pp.105.068684,,"Roots,shoots",NA
 Athaliana_TAIR10,AT1G12640,LPCAT1,P,10.7554/eLife.32077,,Leaf,NA
@@ -208,4 +209,5 @@ Zmays_RefGen_V4,Zm00001d040627,HKT1,"Na",10.1111/nph.14882,,"Leaf",
 Zmays_RefGen_V4,Zm00001d041111,YS3,"Fe",10.3389/fpls.2018.00157,,"Leaf",
 Zmays_RefGen_V4,Zm00001d042244,HAK5,"K",10.1111/jipb.12756,,"Roots, shoots",
 Zmays_RefGen_V4,Zm00001d043062,WRKY64,"Cd",10.1007/s00299-023-03112-8,,"Leaf,Roots",
+
 
