@@ -9,6 +9,7 @@ Athaliana_TAIR10,AT1G14040,PHO1;H3,P,10.1093/jxb/ert444,,Shoots,NA
 Athaliana_TAIR10,AT1G14870,PCR2,Zn,10.1105/tpc.109.070185,,Roots,NA
 Athaliana_TAIR10,AT1G18910,BTSL2,"Fe,Mn,Zn",10.1039/c7mt00152e,NA,"Leaf,seeds",NA
 Athaliana_TAIR10,AT1G20110,FYVE1,"Fe,Zn,Co,Mn",10.1073/pnas.1402262111,NA,Root,NA
+Athaliana_TAIR10,AT1G21140,VTL1,"Fe",10.1371/journal.pone.0110468,NA,"Seeds",NA
 Athaliana_TAIR10,AT1G30270,CIPK23,K,10.1016/j.cell.2006.06.011,,Shoots,NA
 Athaliana_TAIR10,AT1G30400,ABCC1,Cd,10.1111/j.1365-313X.2011.04789.x,,Shoots,NA
 Athaliana_TAIR10,AT1G30450,CCC,"Ca,K,Na,S",10.1371/journal.pone.0063014,,seeds,NA
@@ -27,6 +28,7 @@ Athaliana_TAIR10,AT1G68320,MYB62,P,10.1093/mp/ssn081,,"Roots,shoots",NA
 Athaliana_TAIR10,AT1G71200,CITF1,Cu,10.1105/tpc.17.00363,NA,"Shoots, Anthers",NA
 Athaliana_TAIR10,AT1G74770,BTSL1,"Fe,Mn,Zn",10.1039/c7mt00152e,NA,"Leaf,seeds",NA
 Athaliana_TAIR10,AT1G76430,PHT1;9,"P,As",10.1111/j.1469-8137.2012.04167.x,,"Roots,shoots",NA
+Athaliana_TAIR10,AT1G76800,VTL2,"Fe",10.1371/journal.pone.0110468,NA,"Seeds",NA
 Athaliana_TAIR10,AT1G80310,MOT2,Mo,https://doi-org.proxy.mul.missouri.edu/10.1111/j.1438-8677.2011.00448.x,,"Leaf,seeds",NA
 Athaliana_TAIR10,AT1G80760,NIP6;1,B,10.1105/tpc.108.058628,,"Leaves,shoots",NA
 Athaliana_TAIR10,AT1G80830,NRAMP1,Mn,10.1105/tpc.109.073023,NA,"Shoots,roots",NA
@@ -67,6 +69,7 @@ Athaliana_TAIR10,AT3G18290,BTS,"Fe,Zn,Mn",10.1039/c7mt00152e,NA,"Leaf,seeds",NA
 Athaliana_TAIR10,AT3G22890,ATPS1,S,10.1104/pp.113.225748,NA,Shoos,NA
 Athaliana_TAIR10,AT3G23210,bHLH34,Fe,10.1104/pp.15.01827,NA,"roots, shoots",NA
 Athaliana_TAIR10,AT3G23430,PHO1,P,10.1093/jxb/ert444,,Shoots,NA
+Athaliana_TAIR10,AT3G25190,VTL5,"Fe",10.1371/journal.pone.0110468,NA,"Seeds",NA
 Athaliana_TAIR10,AT3G43790,ZIFL2,Cs,10.1093/pcp/pcu157,NA,Leaf,NA
 Athaliana_TAIR10,AT3G47640,PYE,"Fe,Zn,Mn,Co",10.1105/tpc.110.074096,NA,Root,NA
 Athaliana_TAIR10,AT3G47950,AHA4,Na,10.1046/j.1365-313x.2001.01081.x,NA,Root,NA
@@ -211,6 +214,7 @@ Zmays_RefGen_V4,Zm00001d040627,HKT1,"Na",10.1111/nph.14882,,"Leaf",
 Zmays_RefGen_V4,Zm00001d041111,YS3,"Fe",10.3389/fpls.2018.00157,,"Leaf",
 Zmays_RefGen_V4,Zm00001d042244,HAK5,"K",10.1111/jipb.12756,,"Roots, shoots",
 Zmays_RefGen_V4,Zm00001d043062,WRKY64,"Cd",10.1007/s00299-023-03112-8,,"Leaf,Roots",
+
 
 
 
